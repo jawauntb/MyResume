@@ -1,0 +1,38 @@
+Jawaun Brown 				    			Full stack developer
+https://github.com/jawauntb
+203 443 9758	Brooklyn, NY
+jawaun.brown95@gmail.com
+WORK EXPERIENCE
+Lead Software Developer, KickRentals - March 2018 - Present - Manhattan, NY
+* •	Led the development of a sneaker rental web app. Managed a 2-person team, requirements gathering/backlog & backend development
+* •	Full stack development using Ruby on Rails, React, JavaScript and Sqlite3
+* •	Followed an Agile Scrum project methodology using 8-day sprint intervals
+
+Java Associate, Revature Inc. - Jan 2018 - March 2018 - Queens, NY
+* •	Part of a team that developed an electronic health record application. We used AWS/Jenkins for dev-ops; Hibernate/Oracle SQL & Java for RESTful backend; AngularJS for front end
+* •	Developed Oracle SQL database and modeled it in Java using Hibernate
+* •	Developed a tuition reimbursement management system with 3 tiers of validation + different user types to manage approval & disbursement of funds. Implemented logging +debugging.
+
+UI/UX Consultant, Rapunzl Investment. - June 2016 - April 2018 - Chicago, IL + Remote
+* •	Performed competitive analyses of similar services, wrote user stories & helped develop strategy
+* •	Initiated user outreach & conducted user acceptance testing which led to a target demographic shift as well as product repurposing and interface redesign; collaborated with React dev for this
+* •	Continue to research potential applications/use cases on a high level (social, economic & political contexts) as remote team member
+
+Previous Experiences:
+    * o	Tusk Ventures as a data analyst of campaign finance data —Summer 2016
+    * o	Grameen America as a bilingual webmaster for WordPress site —Summer 2015
+    * o	Harvard Law School updating/maintaining a database of prisoner letters & designing data driven marketing materials —Summer 2014
+
+SIDE PROJECTS
+SoleSearcher: a web scraping tool using Beautiful Soup/Python to collect info on sneaker release dates and price/location changes
+
+EDUCATION
+2017 B.A. in Political Science, Amherst College
+    * •	Wrote programs in Java to do various tasks such as:
+    * o	Solving Sudoku, towers of Hanoi, square-roots & quadratic equations
+    * o	Text analyses + autocorrections, cryptographic ciphers, card shufflers & pattern generators
+    * o	Designed a program based on Conway’s Game of Life: created visualizations of cellular automata by programming cell classes with simple instructions 
+TECHNICAL SKILLS
+Strong: Java, Maven, Ruby on Rails, JavaScript, HTML/CSS/XML, Oracle SQL, Bootstrap, Git
+Knowledgeable: Python, AJAX, Apache Tomcat, AWS, SOAP/RESTful web services, JUnit
+Familiar: Jenkins, Node.js, AngularJS, ECMA6, other SQLs, Selenium, React/Redux, Apache Log4j
